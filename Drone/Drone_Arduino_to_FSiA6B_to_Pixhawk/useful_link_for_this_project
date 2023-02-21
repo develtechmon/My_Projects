@@ -1,0 +1,20 @@
+# This is link used as a reference #
+
+https://miscircuitos.com/how-to-read-rc-radio-signals-with-arduino-using-ppm-signal-tutorials/
+https://stackoverflow.com/questions/72556979/read-pwm-signal-from-pixhawk-to-arduino
+https://www.dronetrest.com/t/rc-radio-control-protocols-explained-pwm-ppm-pcm-sbus-ibus-dsmx-dsm2/1357
+https://www.instructables.com/Rc-Controller-for-Better-Control-Over-Arduino-Proj/
+https://www.rcgroups.com/forums/showthread.php?1808432-Arduino-ppm-signal-reader-and-generator
+https://www.rcgroups.com/forums/showthread.php?2769871-About-Arduino-send-PWM-signal-to-Pixhawk
+https://dronebotworkshop.com/radio-control-arduino-car/
+https://medium.com/@werneckpaiva/how-to-read-rc-signal-with-arduino-using-flysky-ibus-73448bc924eb
+https://www.instructables.com/Reading-RC-Receiver-PPM-Signal-Using-Arduino/
+https://forum.arduino.cc/t/how-to-connect-arduino-with-receiver/851805
+https://create.arduino.cc/projecthub/abhilashpatel121/reading-rc-receiver-ppm-signal-using-arduino-c42929
+https://quadmeup.com/generate-ppm-signal-with-arduino/
+https://electronoobs.com/eng_arduino_tut25_code5.php
+https://electronoobs.com/eng_arduino_tut25_sch5.php
+https://oscarliang.com/pwm-ppm-difference-conversion/#:~:text=PWM%20stands%20for%20Pulse%20Width,relative%20to%20the%20clocking%20time.
+https://forum.arduino.cc/t/read-ppm-sum-and-output-to-servos-or-motors-question/134657
+https://forum.arduino.cc/t/read-ppm-signals-from-rc-receiver-or-control/7221/15
+https://forum.arduino.cc/t/read-ppm-with-digitalread-and-serial-priint-result/441115

@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": "../../Dronekit_Tutorial"
+		},
+		{
+			"path": "../../4G_Remote_Drone_Operations/resources/Python+App+-+cloudapp-raspi"
+		},
+		{
+			"path": ".."
+		}
+	],
+	"settings": {}
+}
